@@ -9,3 +9,6 @@
 - Special thanks to:
 - System76 for the desktop
 - ryanabx
+
+# WARNING
+This package contains all COSMIC apps and the desktop itself
