@@ -4,11 +4,12 @@
 -  Extracted RPM binaries and libraries
 
 -  And repacked for Debian (Only for testing version)
--  # The Debian stable cannot run because needs GLIBC 2.38 >
+  
+# The Debian stable cannot run because needs GLIBC 2.38 >
 
-- Special thanks to:
-- System76 for the desktop
-- ryanabx
+# Special thanks
+- System76 (COSMIC Desktop developers)
+- ryanabx (for copr repository)
 
 # WARNING
 This package contains all COSMIC apps and the desktop itself
